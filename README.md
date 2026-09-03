@@ -539,15 +539,16 @@ Yesterdays-Shadow/
 
 ## Main Menu
 
-![Main Menu](screenshots/main-menu.png)
+![Main Menu](screenshots/starting_window.png)
 
 ## Level 1
 
-![Level 1](screenshots/level-1.png)
+![Level 1](screenshots/level_1.png)
+![Level 1](screenshots/level_1_with_ghosts.png)
 
 ## Level 2
 
-![Level 2](screenshots/level-2.png)
+![Level 2](screenshots/level_2_with_shadow.png)
 
 ## Shop
 
@@ -555,7 +556,8 @@ Yesterdays-Shadow/
 
 ## Level 3
 
-![Level 3](screenshots/level-3.png)
+![Level 3](screenshots/level_3.png)
+![Level 3](screenshots/level_3_sliding_walls.png)
 
 ## Victory Screen
 
