@@ -612,5 +612,3 @@ The project report and additional documentation are available in the `docs/` dir
 ## ⚠️ Disclaimer
 
 This project was developed as an academic project for educational purposes as part of the CSE423 Computer Graphics course.
-
-````
