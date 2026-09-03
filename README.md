@@ -573,7 +573,7 @@ Yesterdays-Shadow/
 
 **Project Type:** 3D Puzzle / Time-Manipulation / Stealth Game
 
-The project combines 3D graphics programming with interactive gameplay systems and a custom Ghost-based time-manipulation mechanic.
+The project combines 3D graphics programming with interactive gameplay systems and a custom Ghost-based time-manipulation mechanism.
 
 ---
 
