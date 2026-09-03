@@ -490,19 +490,19 @@ pip install PyOpenGL PyOpenGL_accelerate
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Yesterdays-Shadow.git
+git clone https://github.com/chotarahat/Yesterday-s-Shadow.git
 ```
 
 Enter the project directory:
 
 ```bash
-cd Yesterdays-Shadow
+cd Yesterday's Shadow
 ```
 
 Run:
 
 ```bash
-python src/yesterdays_shadow.py
+python src/Yesterday's_shadow.py
 ```
 
 ---
@@ -517,14 +517,16 @@ Yesterdays-Shadow/
 ├── .gitignore
 │
 ├── src/
-│   └── yesterdays_shadow.py
+│   └── yesterday's_shadow.py
 │
 ├── screenshots/
-│   ├── main-menu.png
-│   ├── level-1.png
-│   ├── level-2.png
+│   ├── starting_window.png
+│   ├── level_1.png
+│   ├── level_1_with_ghosts.png
+│   ├── level_2_with_shadow.png
+│   ├── level_3.png
+│   ├── level_3_sliding_walls.png
 │   ├── shop.png
-│   ├── level-3.png
 │   └── victory.png
 │
 └── docs/
@@ -612,5 +614,3 @@ The project report and additional documentation are available in the `docs/` dir
 ## ⚠️ Disclaimer
 
 This project was developed as an academic project for educational purposes as part of the CSE423 Computer Graphics course.
-
-````
